@@ -1,0 +1,19 @@
+
+
+
+{
+    "prefix": "!",
+    "lang": "tr",
+    "serverID": "sunucuid",
+    "welcome": {
+        "channelId": "kanalid",
+        "message": {
+            "success": "{user} katıldı; tarafından davet edildi **{inviterName}** ; O sahip**{inviteCount}** davete",
+            "unknow": "J{user} Sunucuya Nasıl Katıldığını Bulamadım ?",
+            "vanity": "{user} Sunucuya Özel URL ile katıldı!",
+            "self-invite": "{user} kendi davetiyelerini kullanarak katıldı!"
+        },
+        "isEmbed": true,
+        "color": "#27ae60"
+    }
+}
